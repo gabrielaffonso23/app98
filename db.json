@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "eu sou muito lindo",
+      "lastName": "foda para caralho",
+      "email": "meupaudeasssas@seucu.com",
+      "dob": "2016-01-04T02:00:00.000Z",
+      "gender": "male",
+      "education": "Fundamental",
+      "company": "eu mesmo",
+      "experience": 99,
+      "package": 500000,
+      "cpf": "1928549459",
+      "cep": "23017390",
+      "telefone": "2391240",
+      "id": 1
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "cpf": "",
+      "cep": "",
+      "telefone": "",
+      "id": 2
+    }
+  ]
+}
